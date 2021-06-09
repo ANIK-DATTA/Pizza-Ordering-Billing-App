@@ -1,3 +1,3 @@
 # Pizza-Ordering-Billing-GUI-App
 Pizza ordering,billing and customer records keeping GUI App
-made using java, jdbc, mysql
+made using java, jFrame, jdbc, mysql
